@@ -1,0 +1,73 @@
+body
+{
+	margin:0px auto;
+	background-image:url("../images/back.jpg");
+	background-size:cover;
+}
+div
+{
+	margin:50px 10%;
+	
+	
+}
+
+#profile
+{
+	height:350px;
+	width:80%;
+	
+}
+
+
+#aboutme:hover
+{
+	background-color:#00c2e5;
+	color:white;
+}
+#aboutme
+{
+	height:300px;
+	width:80%;
+	background-color:white;
+	border:solid 8px #39ff14;
+	border-radius:60px;
+}
+#qualification:hover
+{
+	background-color:#00c2e5;
+	color:white;
+}
+#qualification
+{
+	height:650px;
+	width:80%;
+	background-color:white;
+	border:solid 8px #39ff14;
+	border-radius:60px;
+}
+#contact:hover
+{
+	background-color:#00c2e5;
+	color:white;
+}
+#contact
+{
+	height:400px;
+	width:80%;
+	background-color:white;
+	border:solid 8px #39ff14;
+	border-radius:60px;
+}
+dt
+{
+	font-size:40px;
+}
+a
+{
+	text-decoration:none;
+	color:black;
+}
+a:hover
+{
+	color:white;
+}
